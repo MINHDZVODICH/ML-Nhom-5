@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+catboost_info/
+*.npy
+data/
+*.csv
+outputs/
+*.pt
+*.pth
